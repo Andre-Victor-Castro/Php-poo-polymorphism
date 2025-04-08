@@ -1,0 +1,15 @@
+{
+    "name": "andrevictor/php-poo-polymorphism",
+    "autoload": {
+        "psr-4": {
+            "Andrevictor\\PhpPooPolymorphism\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "André Victor Soares Castro",
+            "email": "104785770+Andre-Victor-Castro@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
